@@ -3,8 +3,8 @@
     "method": "POST",
     "url": "https://jzsz.uestc.edu.cn/wxvacation/api/epidemic/login/bindUserInfo",
     "data": {
-      "sn": "YOUR-STUDENT-NUMBER",
-      "idCard": "YOUR-PASSWORD"
+      "sn": "2020080906020",
+      "idCard": "ctynb271828"
     },
     "description": "[未使用] 将 cookie 绑定给用户"
   },
@@ -19,9 +19,9 @@
     "url": "https://jzsz.uestc.edu.cn/wxvacation/api/epidemic/monitorRegisterForReturned",
     "data": {
       "healthCondition": "正常",
-      "todayMorningTemperature": "36.5°C~36.9°C",
-      "yesterdayEveningTemperature": "36.5°C~36.9°C",
-      "yesterdayMiddayTemperature": "36.5°C~36.9°C",
+      "todayMorningTemperature": "36°C~36.5°C",
+      "yesterdayEveningTemperature": "36°C~36.5°C",
+      "yesterdayMiddayTemperature": "36°C~36.5°C",
       "location": "四川省成都市郫都区丹桂路",
       "healthColor": "绿色"
     },
@@ -37,7 +37,7 @@
     "method": "POST",
     "url": "https://jzsz.uestc.edu.cn/wxvacation/api/epidemic/monitorRegister",
     "data": {
-      "currentAddress": "江苏省苏州市常熟市",
+      "currentAddress": "山西省晋中市太谷区金谷大道",
       "remark": "",
       "healthInfo": "正常",
       "healthColor": "绿色",
@@ -46,10 +46,10 @@
       "isInSchool": 0,
       "isLeaveChengdu": 1,
       "isSymptom": 0,
-      "temperature": "36.5°C~36.9°C",
-      "province": "江苏省",
-      "city": "苏州市",
-      "county": "常熟市"
+      "temperature": "36°C~36.5°C",
+      "province": "山西省",
+      "city": "晋中市",
+      "county": "太谷区"
     },
     "description": "离校学生数据"
   }
