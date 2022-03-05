@@ -37,7 +37,7 @@
     "method": "POST",
     "url": "https://jzsz.uestc.edu.cn/wxvacation/api/epidemic/monitorRegister",
     "data": {
-      "currentAddress": "山西省晋中市太谷区金谷大道",
+      "currentAddress": "山西省晋中市太谷区金谷大道西",
       "remark": "",
       "healthInfo": "正常",
       "healthColor": "绿色",
